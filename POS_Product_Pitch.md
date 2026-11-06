@@ -722,8 +722,8 @@ Uloge su kombinovane jer tim ima četiri člana. Raspodela je predlog i potvrđu
 
 | Član | RUP uloga | Scrum uloga | Težište rada |
 |---|---|---|---|
-| Mladen Stanimirović | Analitičar zahteva | Product Owner | Zahtevi, use-case-ovi, prioriteti, dokumentacija, komunikacija sa pilot korisnicima |
-| Jovan Vidović | Inženjer procesa i isporuke | Scrum Master | Organizacija sprintova, CI/CD, kontejneri, Keycloak i Caddy konfiguracija |
+| Mladen Stanimirović | Analitičar zahteva | Scrum Master | Zahtevi, use-case-ovi, prioriteti, dokumentacija, komunikacija sa pilot korisnicima |
+| Jovan Vidović | Inženjer procesa i isporuke | Razvojni tim | Organizacija sprintova, CI/CD, kontejneri, Keycloak i Caddy konfiguracija |
 | Vladimir Mileticki | Arhitekta | Razvojni tim | Arhitektura, domen, pozadinski servis, baza podataka |
 | Lazar Vučković | Projektant korisničkog interfejsa | Razvojni tim | Frontend, GUI prototip, upotrebljivost |
 
